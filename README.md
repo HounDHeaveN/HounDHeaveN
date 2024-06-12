@@ -1,3 +1,4 @@
+![logo](https://github.com/tr-choudhury21/tr-choudhury21/blob/main/sde%20setup.jpg)
 <h1 align="center">Hi 👋, I'm Titu Ray Choudhury</h1>
 <h3 align="center">A Computer Science undergrad 📖, passionate Web Developer 👨🏻‍💻 with expertise in modern web technologies🌐, and a commitment to creating innovative , user-centric web applications 🚀💻.</h3>
 
