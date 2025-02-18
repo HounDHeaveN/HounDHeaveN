@@ -6,9 +6,9 @@
 
 <img align="right" alt="coding" width="400" src="https://www.optimalvirtualemployee.com/wp-content/uploads/2023/01/front-end-development.gif">
 
-- 🔭 I’m currently working on **SaaS Applications**
+- 🔭 I’m currently working on **Android Developement**
 
-- 🌱 I’m currently learning **NextJS Framework with Typescript**
+- 🌱 I’m currently learning **Go Lang**
 
 - 📫 How to reach me **tituraychoudhury@gmail.com**
 
